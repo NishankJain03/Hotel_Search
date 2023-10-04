@@ -1,0 +1,281 @@
+{
+    "London": [
+      {
+        "id": 1,
+        "imageUrl": "hotel.jpeg",
+        "streetName": "123 Main Street, London",
+        "room": 2,
+        "bed": 1,
+        "sqft": 800,
+        "rent": 1500
+      },
+      {
+        "id": 2,
+        "imageUrl": "hotel.jpeg",
+        "streetName": "456 Elm Street, London",
+        "room": 3,
+        "bed": 2,
+        "sqft": 1200,
+        "rent": 2200
+      },
+      {
+        "id": 3,
+        "imageUrl": "hotel.jpeg",
+        "streetName": "456 Elm Street, London",
+        "room": 3,
+        "bed": 2,
+        "sqft": 1200,
+        "rent": 2200
+      },
+      {
+        "id": 4,
+        "imageUrl": "hotel.jpeg",
+        "streetName": "456 Elm Street, London",
+        "room": 3,
+        "bed": 2,
+        "sqft": 1200,
+        "rent": 2200
+      },
+      {
+        "id": 5,
+        "imageUrl": "hotel.jpeg",
+        "streetName": "456 Elm Street, London",
+        "room": 3,
+        "bed": 2,
+        "sqft": 1200,
+        "rent": 2200
+      },
+      {
+        "id": 6,
+        "imageUrl": "hotel.jpeg",
+        "streetName": "456 Elm Street, London",
+        "room": 3,
+        "bed": 2,
+        "sqft": 1200,
+        "rent": 2200
+      },
+      {
+        "id": 7,
+        "imageUrl": "hotel.jpeg",
+        "streetName": "456 Elm Street, London",
+        "room": 3,
+        "bed": 2,
+        "sqft": 1200,
+        "rent": 2200
+      }
+    ],
+    "New York": [
+      {
+        "id": 8,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "789 Broadway, New York",
+        "room": 2,
+        "bed": 1,
+        "sqft": 750,
+        "rent": 1800
+      },
+      {
+        "id": 9,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "101 Wall Street, New York",
+        "room": 4,
+        "bed": 3,
+        "sqft": 1600,
+        "rent": 3000
+      },
+      {
+        "id": 10,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "101 Wall Street, New York",
+        "room": 4,
+        "bed": 3,
+        "sqft": 1600,
+        "rent": 3000
+      },
+      {
+        "id": 11,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "101 Wall Street, New York",
+        "room": 4,
+        "bed": 3,
+        "sqft": 1600,
+        "rent": 3000
+      },
+      {
+        "id": 12,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "101 Wall Street, New York",
+        "room": 4,
+        "bed": 3,
+        "sqft": 1600,
+        "rent": 3000
+      },
+      {
+        "id": 13,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "101 Wall Street, New York",
+        "room": 4,
+        "bed": 3,
+        "sqft": 1600,
+        "rent": 3000
+      },
+      {
+        "id": 14,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "101 Wall Street, New York",
+        "room": 4,
+        "bed": 3,
+        "sqft": 1600,
+        "rent": 3000
+      }
+    ],
+    "Paris": [
+      {
+        "id": 15,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "3 Rue de la Paix, Paris",
+        "room": 1,
+        "bed": 1,
+        "sqft": 600,
+        "rent": 1200
+      },
+      {
+        "id": 16,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "15 Avenue des Champs-Élysées, Paris",
+        "room": 2,
+        "bed": 2,
+        "sqft": 900,
+        "rent": 2000
+      },
+      {
+        "id": 17,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "15 Avenue des Champs-Élysées, Paris",
+        "room": 2,
+        "bed": 2,
+        "sqft": 900,
+        "rent": 2000
+      },
+      {
+        "id": 18,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "15 Avenue des Champs-Élysées, Paris",
+        "room": 2,
+        "bed": 2,
+        "sqft": 900,
+        "rent": 2000
+      },
+      {
+        "id": 19,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "15 Avenue des Champs-Élysées, Paris",
+        "room": 2,
+        "bed": 2,
+        "sqft": 900,
+        "rent": 2000
+      },
+      {
+        "id": 20,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "15 Avenue des Champs-Élysées, Paris",
+        "room": 2,
+        "bed": 2,
+        "sqft": 900,
+        "rent": 2000
+      },
+      {
+        "id": 21,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "15 Avenue des Champs-Élysées, Paris",
+        "room": 2,
+        "bed": 2,
+        "sqft": 900,
+        "rent": 2000
+      },
+      {
+        "id": 22,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "15 Avenue des Champs-Élysées, Paris",
+        "room": 2,
+        "bed": 2,
+        "sqft": 900,
+        "rent": 2000
+      }
+    ],
+    "Mumbai": [
+      {
+        "id": 23,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "123 Marine Drive, Mumbai",
+        "room": 1,
+        "bed": 1,
+        "sqft": 700,
+        "rent": 25000
+      },
+      {
+        "id": 24,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "456 Bandra West, Mumbai",
+        "room": 2,
+        "bed": 2,
+        "sqft": 1100,
+        "rent": 35000
+      },
+      {
+        "id": 25,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "456 Bandra West, Mumbai",
+        "room": 2,
+        "bed": 2,
+        "sqft": 1100,
+        "rent": 35000
+      },
+      {
+        "id": 26,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "456 Bandra West, Mumbai",
+        "room": 2,
+        "bed": 2,
+        "sqft": 1100,
+        "rent": 35000
+      },
+      {
+        "id": 27,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "456 Bandra West, Mumbai",
+        "room": 2,
+        "bed": 2,
+        "sqft": 1100,
+        "rent": 35000
+      },
+      {
+        "id": 28,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "456 Bandra West, Mumbai",
+        "room": 2,
+        "bed": 2,
+        "sqft": 1100,
+        "rent": 35000
+      },
+      {
+        "id": 29,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "456 Bandra West, Mumbai",
+        "room": 2,
+        "bed": 2,
+        "sqft": 1100,
+        "rent": 35000
+      },
+      {
+        "id": 30,
+        "imageUrl" : "hotel.jpeg",
+        "streetName": "456 Bandra West, Mumbai",
+        "room": 2,
+        "bed": 2,
+        "sqft": 1100,
+        "rent": 35000
+      }
+    ]
+  }
+  

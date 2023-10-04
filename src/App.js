@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import Tabs from './Components/Tab'
+import PropertyDisplay from './Components/PropertyDisplay';
 
 function App() {
+  const cities = ['London', 'New York', 'Paris', 'Mumbai'];
+  const defaultCity = 'London';
+
+  const [activeCity, setActiveCity] = useState(defaultCity);
+
+  const handleTabClick = (city) => {
+    setActiveCity(city);
+  };
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Hotel Listing</h1>
+      <Tabs cities={cities} defaultCity={defaultCity} onTabClick={handleTabClick} />
+      <PropertyDisplay activeCity={activeCity} />
     </div>
   );
 }
 
 export default App;
+  

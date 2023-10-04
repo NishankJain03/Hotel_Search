@@ -1,0 +1,75 @@
+/* PropertyDisplay.css */
+.property-display {
+  padding: 20px;
+  background-color: #f7f7f7;
+}
+
+.property-display h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.property-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.property-card {
+  width: calc(33.33% - 10px); /* Display three properties per row */
+  margin: 8px;
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.property-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.property-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px 8px 0 0;
+}
+
+.property-card .property-details {
+  padding: 16px;
+}
+
+.property-card strong {
+  font-weight: 600;
+}
+
+.property-card button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 0 0 8px 8px;
+}
+
+.property-card button:hover {
+  background-color: #0056b3;
+}
+
+/* Styling for the "Show More" button */
+.show-more-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.show-more-button:hover {
+  background-color: #0056b3;
+}
